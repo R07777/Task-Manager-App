@@ -22,3 +22,11 @@ npm run dev
 cd client
 npm install
 npm run dev
+
+## Screenshots
+
+### Login Page
+![Login](Screenshots/Login.png)
+
+### Dashboard
+![Dashboard](Screenshots/Dashboard.png)
